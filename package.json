@@ -5,10 +5,15 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "https://x.com/Ahmad_mrtm",
+  "homepage": "https://task-two-zeta.vercel.app",
   "repository": {
     "url": "https://github.com/Ahmad-Maartmesrini/task"
   },
+  "keywords": [
+    "blockchain",
+    "etherscan",
+    "alchemy"
+  ],
   "scripts": {
     "build": "tsup"
   },
