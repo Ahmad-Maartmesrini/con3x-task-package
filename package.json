@@ -1,6 +1,6 @@
 {
   "name": "con3x-task-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this package is made for Con3x",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
