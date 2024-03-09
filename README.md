@@ -38,10 +38,6 @@ const balance = await Balance(address, "your-api-key");
 - **getLastBlockNumber** function expects an Alchemy SDK API key as an argument.
 - **Balance** function expects an Ethereum address as an argument.
 
-### Acknowledgment
-
-Developed with ❤️ by Ahmad for Con3x.
-
 ### License
 
 This package is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
