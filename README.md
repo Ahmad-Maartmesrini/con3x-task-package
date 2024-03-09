@@ -33,10 +33,9 @@ const address = "0x1234567890123456789012345678901234567890";
 const balance = await Balance(address, "your-api-key");
 ```
 
-### Note
-
 - **getLastBlockNumber** function expects an Alchemy SDK API key as an argument.
 - **Balance** function expects an Ethereum address as an argument.
+
 
 ### License
 
