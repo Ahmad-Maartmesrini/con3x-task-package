@@ -40,5 +40,3 @@ const balance = await Balance(address, "your-api-key");
 ### License
 
 This package is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Developed with ❤️ by Ahmad for Con3x.
