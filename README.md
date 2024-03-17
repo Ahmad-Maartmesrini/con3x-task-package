@@ -1,4 +1,4 @@
-**Con3x Task Package**
+**Technical Task Package**
 
 ---
 
@@ -7,7 +7,7 @@
 You can install this npm package by typing the following command in your terminal:
 
 ```
-npm install con3x-task-package
+npm install technical-task
 ```
 
 ### Usage
@@ -23,7 +23,7 @@ This npm package provides two main functions:
 To use the functions provided by this package, import them into your project as needed.
 
 ```typescript
-import { getLastBlockNumber, Balance } from "con3x-task-package";
+import { getLastBlockNumber, Balance } from "technical-task";
 
 // Example usage of getLastBlockNumber
 const lastBlockNumber = await getLastBlockNumber();
