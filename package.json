@@ -1,7 +1,7 @@
 {
-  "name": "con3x-task-package",
+  "name": "technical-task",
   "version": "1.0.6",
-  "description": "this package is made for Con3x",
+  "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
